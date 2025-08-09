@@ -13,6 +13,6 @@ CREATE TABLE IF NOT EXISTS messages (
 
 -- Insert some initial data
 INSERT INTO messages (message) VALUES 
-('Hello from the database!'),
-('Welcome to our three-tier architecture demo'),
+('Hello from the Kiran!'),
+('Welcome to my three-tier architecture demo'),
 ('This is a simple example showing frontend, backend, and database');
