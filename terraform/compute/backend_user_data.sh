@@ -11,7 +11,7 @@ cd /var/www/html
 sudo echo "Success!" > index.html
 
 # Clone repository with backend code
-sudo git clone https://github.com/ajitinamdar-tech/three-tier-architecture-aws.git
+sudo git clone https://github.com/Kiranikshit/three-tier-architecture-aws.git
 
 # Create api directory and move backend files
 sudo mkdir api
